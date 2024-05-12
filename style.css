@@ -1,0 +1,27 @@
+.error-msg{
+    text-align: center;
+    color: #f70d0d;
+    position: relative;
+    width: 40%;
+    top: 15px;
+    left: 40px;
+ 
+}
+.button{
+ 
+    position: relative;
+left: 20px;
+}
+.button>button{
+    border-radius: 5px;
+    top: -5px;
+    margin: 5px;
+    border: 1px solid black;
+    font-weight: bold;
+    background-color: #c3f09c;
+}
+.cal-value{
+    position: relative;
+    left: 20px;
+    font-size: 20px;
+}
